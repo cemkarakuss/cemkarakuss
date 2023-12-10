@@ -13,7 +13,7 @@ I started learning programming two years ago. I am still actively learning and i
 * ⚡  I am currently a student in Management Information Systems. I am passionate about enhancing my skills in the frontend domain and showcasing my creativity in design. I enjoy expressing my own creativity in the design process
 
 <a href="https://www.github.com/cemkarakuss" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cemkarakuss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/cemkarakusdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/cemkarakuss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/karakusdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/cemkarakusdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
